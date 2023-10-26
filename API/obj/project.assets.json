@@ -5990,19 +5990,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\campus\\.nuget\\packages\\": {}
+    "C:\\Users\\APM02-36\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\campus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\API\\obj\\",
+      "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\APM02-36\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\campus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\APM02-36\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6014,8 +6014,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\APP\\APP.csproj": {
-              "projectPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\APP\\APP.csproj"
+            "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\APP\\APP.csproj": {
+              "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\APP\\APP.csproj"
             }
           }
         }
@@ -6088,7 +6088,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

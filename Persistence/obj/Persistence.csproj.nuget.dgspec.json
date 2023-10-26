@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Domain\\Domain.csproj": {
+    "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\campus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\APM02-36\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\campus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-36\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\campus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\APM02-36\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\campus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-36\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\campus\\Documents\\DeLxCruz\\veterynary4LdotNET\\Domain\\Domain.csproj"
+              "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\APM02-36\\Documents\\cs\\.NET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
