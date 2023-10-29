@@ -6,9 +6,9 @@ using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Persistence.Data;
-public class Veterinary4LContext : DbContext
+public class Veterinary4LApiContext : DbContext
 {
-    public Veterinary4LContext(DbContextOptions options) : base(options)
+    public Veterinary4LApiContext(DbContextOptions options) : base(options)
     {
     }
 
@@ -26,6 +26,6 @@ public class Veterinary4LContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
-        modelBuilder.ApplyConfigurationsFromAssembly(typeof(Veterinary4LContext).Assembly);
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(Veterinary4LApiContext).Assembly);
     }
 }
