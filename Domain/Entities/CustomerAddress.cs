@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -11,6 +12,9 @@ namespace Domain.Entities
         [Required]
         public int IdCustomer { get; set; }
         public Customer Customers { get; set; }
+        [Required]
+        public int IdCity { get; set; }
+        public City Cities { get; set; }
         public string RoadType { get; set; }
         public int PrimaryNum { get; set; }
         public string Letter { get; set; }

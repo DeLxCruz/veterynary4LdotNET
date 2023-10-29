@@ -11,7 +11,7 @@ namespace Domain.Entities
         [Required]
         public string Name { get; set; }
         [Required]
-        public string species { get; set; }
+        public string Specie { get; set; }
         [Required]
         public int IdBreed { get; set; }
         public Breed Breeds { get; set; }

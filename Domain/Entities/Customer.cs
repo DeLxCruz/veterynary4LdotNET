@@ -15,7 +15,6 @@ namespace Domain.Entities
         [Required]
         public string Email { get; set; }
         public CustomerAddress CustomersAddress { get; set; }
-        
         public ICollection<CustomerPhone> CustomersPhone { get; set; }
         public ICollection<Pet> Pets { get; set; }
         public ICollection<Appointment> Appointments { get; set; }
