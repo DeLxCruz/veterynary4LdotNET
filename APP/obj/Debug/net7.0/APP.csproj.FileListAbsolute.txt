@@ -32,3 +32,11 @@ C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\APP\obj
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\APP\obj\Debug\net7.0\refint\APP.dll
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.pdb
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\APP\obj\Debug\net7.0\ref\APP.dll
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.csproj.AssemblyReference.cache
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.AssemblyInfoInputs.cache
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.AssemblyInfo.cs
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.csproj.CoreCompileInputs.cache
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.dll
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\refint\APP.dll
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\APP\obj\Debug\net7.0\APP.pdb

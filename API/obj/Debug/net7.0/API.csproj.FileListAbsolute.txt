@@ -115,3 +115,6 @@ C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\API\obj
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\API\obj\Debug\net7.0\API.pdb
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\DeLaCruz\Documents\CAMPUS\dotNET\CuatroCapas\veterynary4LdotNET\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\API\obj\Debug\net7.0\API.dll
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\corvus\Documents\DeLxCruz\dotNET\veterynary4LdotNET\API\obj\Debug\net7.0\API.pdb

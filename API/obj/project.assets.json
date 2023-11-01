@@ -5990,19 +5990,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DeLaCruz\\.nuget\\packages\\": {}
+    "C:\\Users\\corvus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\DeLaCruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\API\\obj\\",
+      "projectPath": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\corvus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DeLaCruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\corvus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6014,8 +6014,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\APP\\APP.csproj": {
-              "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\APP\\APP.csproj"
+            "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\APP\\APP.csproj": {
+              "projectPath": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\APP\\APP.csproj"
             }
           }
         }
