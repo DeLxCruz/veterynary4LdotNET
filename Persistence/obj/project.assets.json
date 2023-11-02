@@ -5216,19 +5216,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\corvus\\.nuget\\packages\\": {}
+    "C:\\Users\\DeLaCruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\corvus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\Persistence\\obj\\",
+      "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\DeLaCruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\corvus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DeLaCruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5240,8 +5240,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\corvus\\Documents\\DeLxCruz\\dotNET\\veterynary4LdotNET\\Domain\\Domain.csproj"
+            "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\DeLaCruz\\Documents\\CAMPUS\\dotNET\\CuatroCapas\\veterynary4LdotNET\\Domain\\Domain.csproj"
             }
           }
         }

@@ -18,5 +18,6 @@ namespace Domain.Entities
         public ICollection<CustomerPhone> CustomersPhone { get; set; }
         public ICollection<Pet> Pets { get; set; }
         public ICollection<Appointment> Appointments { get; set; }
+        public User Users { get; set; }
     }
 }

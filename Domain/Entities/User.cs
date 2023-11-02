@@ -13,5 +13,7 @@ namespace Domain.Entities
         public ICollection <Role> Roles { get; set; } = new HashSet<Role>();
         public ICollection<RefreshToken> RefreshTokens { get; set; } = new HashSet<RefreshToken>();
         public ICollection<UserRole> UserRoles { get; set; }
+        public int CustomerId { get; set; }
+        public Customer Customers { get; set; }
     }
 }
